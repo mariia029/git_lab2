@@ -29,16 +29,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="CS.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
     <ClInclude Include="help.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="pipe.h">
+    <ClInclude Include="CS.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="main.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="pipe.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
